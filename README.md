@@ -2,7 +2,7 @@
 # Book Recommender System
 
 
-This project is a Movie Recommender System built using Python. It uses collaborative filtering and popularity-based filtering techniques to provide personalized movie recommendations. The system is deployed on Render, making it easily accessible via a web interface. Users can explore and discover movies based on their preferences and past ratings.
+This project is a Book Recommender System built using Python. It uses collaborative filtering and popularity-based filtering techniques to provide personalized movie recommendations. The system is deployed on Render, making it easily accessible via a web interface. Users can explore and discover movies based on their preferences and past ratings.
 ## Screenshots
 
 ![Book Recommender System - Google Chrome 10-06-2024 03_14_14](https://github.com/diwansinghchauhan/Book-recommender-System/assets/147912878/ffbec4d5-8ea7-4750-adc0-7310aa80e134)
